@@ -1,0 +1,7 @@
+$dokka.format:html
+$dokka.linkExtension:html
+
+com.yabu.livechart.model
+com.yabu.livechart.utils
+com.yabu.livechart.view
+
